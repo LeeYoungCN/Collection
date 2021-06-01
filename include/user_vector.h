@@ -39,7 +39,7 @@ namespace user_std {
 
         size_t max_size() override
         {
-            return UINT_LEAST16_MAX;1073741823
+            return UINT_LEAST16_MAX;
         }
 
     private:
